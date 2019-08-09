@@ -22,7 +22,7 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 
 ## Workflow
 
-Commit at the end of each iteration (if not more frequently) so we can see the timestamps of your work. When you are done/time is up, tag your instructor on the last PR so we can review your work and comment directly on it. Make sure to complete the PR template.
+Commit at the end of each iteration (if not more frequently) so we can see the timestamps of your work. When you are done/time is up, make a PR and be sure to complete the PR template, including tagging your assigned instructor.
 
 **Iteration 0:** Build Out Comp
 

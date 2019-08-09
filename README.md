@@ -47,6 +47,7 @@ Commit at the end of each iteration (if not more frequently) so we can see the t
 - Once user clicks and sees an answer, they can click a "favorite" button. That question and its answer should then be on a list of favorited question/answer pairs
 - The user can favorite as many or as few question/answer pairs as they like
 - When the user refreshes the page, all favorites will be gone
+- No guidance is provided for the layout of this; use your best judgement and work to keep it consistent with the look and feel of what you built in Iteration 1!
 
 <img width="973" alt="Zero state" src="https://user-images.githubusercontent.com/25447342/62751672-c8f99e00-ba21-11e9-9029-7855eb7524fa.png">
 

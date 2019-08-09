@@ -26,6 +26,7 @@ Commit at the end of each iteration (if not more frequently) so we can see the t
 
 **Iteration 0:** Build Out Comp
 
+- Images of comp below
 - An assets directory is provided in the repo, and colors are provided in the CSS file
 - Do _not_ spend time making this page responsive
 
@@ -46,3 +47,9 @@ Commit at the end of each iteration (if not more frequently) so we can see the t
 - Once user clicks and sees an answer, they can click a "favorite" button. That question and its answer should then be on a list of favorited question/answer pairs
 - The user can favorite as many or as few question/answer pairs as they like
 - When the user refreshes the page, all favorites will be gone
+
+<img width="973" alt="Zero state" src="https://user-images.githubusercontent.com/25447342/62751672-c8f99e00-ba21-11e9-9029-7855eb7524fa.png">
+
+<img width="1109" alt="After a user has requested an answer" src="https://user-images.githubusercontent.com/25447342/62751671-c8f99e00-ba21-11e9-90e5-4dc648ae2d6a.png">
+
+

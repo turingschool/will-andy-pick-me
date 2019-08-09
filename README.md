@@ -32,7 +32,7 @@ Commit at the end of each iteration (if not more frequently) so we can see the t
 
 **Iteration 1:** Add Random Message Functionality
 
-- When a user types in a question then clicks the "Get your answer" button, the use sees their question and a random answer from the list of possible answers
+- When a user types in a question then clicks the "Get your answer" button, the use sees their question and a random answer from the list of possible answers (a list of the possible random answers is provided below)
 - The input field the user typed the question into should clear as soon as they click the "Get your answer" button
 - When the question and answer appear, the image of the 8 ball disappears
 
@@ -48,6 +48,31 @@ Commit at the end of each iteration (if not more frequently) so we can see the t
 - The user can favorite as many or as few question/answer pairs as they like
 - When the user refreshes the page, all favorites will be gone
 - No guidance is provided for the layout of this; use your best judgement and work to keep it consistent with the look and feel of what you built in Iteration 1!
+
+### Possible Answers
+
+- It is certain.
+- It is decidedly so.
+- Without a doubt.
+- Yes - definitely.
+- You may rely on it.
+- As I see it, yes.
+- Most likely.
+- Outlook good.
+- Yes.
+- Signs point to yes.
+- Reply hazy, try again.
+- Ask again later.
+- Better not tell you now.
+- Cannot predict now. 
+- Concentrate and ask again. 
+- Don't count on it.
+- My reply is no.
+- My sources say no.
+- Outlook not so good.
+- Very doubtful.
+
+### Comps
 
 <img width="973" alt="Zero state" src="https://user-images.githubusercontent.com/25447342/62751672-c8f99e00-ba21-11e9-9029-7855eb7524fa.png">
 

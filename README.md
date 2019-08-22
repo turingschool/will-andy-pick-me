@@ -20,6 +20,10 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 - Clone your copy of the repo down to your machine
 - Read this README thoroughly, then begin working!
 
+## Submission
+
+**At or before noon**, push your code to a GitHub repository and deploy to GH pages. Complete [this](https://forms.gle/QVxUYHXapp3SSegSA) submission form to share your work with us.
+
 ## Workflow
 
 Commit at the end of each iteration (if not more frequently) so we can see the timestamps of your work. When you are done/time is up, make a PR and be sure to complete the PR template, including tagging your assigned instructor.

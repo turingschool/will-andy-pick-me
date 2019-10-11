@@ -14,7 +14,18 @@ clear button disabled: #D0CDCD
 h1 {
   color: #2B4E80
 }
-
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 main {
   background: #E6ECF4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.clear-btn {
+  align-self: flex-end;
 }

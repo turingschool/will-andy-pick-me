@@ -12,9 +12,9 @@ clear button disabled: #D0CDCD
 */
 
 html {
+  color: #2B4E80;
   font-family: 'Open Sans', sans-serif;
 }
-
 
 h1 {
   color: #2B4E80;
@@ -33,13 +33,46 @@ main {
   background: #E6ECF4;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+}
+.question,
+.submit-btn,
+.eight-ball-img {
+  display: block;
+  margin: 2% 3%;
+  position: relative;
+}
+.question {
+  width: 80%;
+  margin-bottom: 0;
+}
+.question input {
+  font-size: 16px;
+  padding: 2% 38%;
+}
+.submit-btn button {
+  background: #2B4E80;
+  color: white;
+  font-size: 16px;
+  padding: 2% 0;
+  width: 101%;
 }
 .eight-ball-img {
-  height: 30%;
-  width: 40%;
+  height: auto;
+  margin: 10% auto;
+  width: 35%;
 }
-
 .clear-btn {
+  background: #DE4841;
   align-self: flex-end;
+  color: white;
+  font-size: 16px;
+  margin: 5%;
+  padding: 3% 4%;
+}
+.clear-btn-disable {
+  background: #D0CDCD;
+}
+.woody-img {
+  height: auto;
+  width: 90%;
 }

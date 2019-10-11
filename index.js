@@ -21,14 +21,13 @@ var messages = [
 'Very doubtful.',
 ]
 
-var userQuestion = document.querySelect('#question');
-var answerQuestion = document.querySelect('#submit-btn');
+var userQuestion = document.querySelector('#question');
+var answerQuestion = document.querySelector('#submit-btn');
+var theMessage = document.querySelector('.message');
 
 answerQuestion.addEventListener('click', randomAnswer);
 
 function randomAnswer() {
   var randomNum = Math.floor(Math.random * messages.length);
-  // innerText = messages[randomNum];
-
-
-}
+  theMessage.innerText = messages[randomNum];
+};

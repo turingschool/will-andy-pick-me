@@ -35,6 +35,10 @@ main {
   flex-direction: column;
   justify-content: center;
 }
+.eight-ball-img {
+  height: 30%;
+  width: 40%;
+}
 
 .clear-btn {
   align-self: flex-end;

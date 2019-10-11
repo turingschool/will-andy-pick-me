@@ -59,7 +59,11 @@ main {
 .eight-ball-img {
   height: auto;
   margin: 10% auto;
-  width: 35%;
+  width: 40%;
+}
+.repeat-ques,
+.message {
+  visibility: hidden;
 }
 .clear-btn {
   background: #DE4841;
@@ -74,5 +78,6 @@ main {
 }
 .woody-img {
   height: auto;
-  width: 90%;
+  margin-top: 30%;
+  width: 95%;
 }

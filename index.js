@@ -19,15 +19,20 @@ var messages = [
 'My sources say no.',
 'Outlook not so good.',
 'Very doubtful.',
-]
+];
 
 var userQuestion = document.querySelector('#question');
-var answerQuestion = document.querySelector('#submit-btn');
+console.log(userQuestion);
+
+var answerQuestion = document.querySelector('.submit-btn');
+console.log(answerQuestion);
 var theMessage = document.querySelector('.message');
+var repeatQuestion =document.querySelector('.repeat-ques');
 
-answerQuestion.addEventListener('click', randomAnswer);
-
-function randomAnswer() {
-  var randomNum = Math.floor(Math.random * messages.length);
-  theMessage.innerText = messages[randomNum];
-};
+// answerQuestion.addEventListener('click', randomAnswer);
+//
+// function randomAnswer() {
+//   var randomNum = Math.floor(Math.random() * messages.length);
+//   theMessage.innerText = "Yikes"
+//   // repeatQuestion.innerText = userQuestion.value;
+// };

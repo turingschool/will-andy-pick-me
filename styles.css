@@ -11,8 +11,16 @@ clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
 
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
 h1 {
-  color: #2B4E80
+  color: #2B4E80;
+  font-family: 'Life Savers', cursive;
+  font-size: 48px;
+  text-align: center;
 }
 .wrapper {
   display: flex;

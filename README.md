@@ -22,7 +22,7 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 
 ## Submission
 
-**At or before noon**, push your code to a GitHub repository and deploy to GH pages. Complete [this](https://forms.gle/QVxUYHXapp3SSegSA) submission form to share your work with us.
+**At or before noon**, push your code to a GitHub repository and deploy to GH pages. Complete the provided submission form in your channel to share your work with us.
 
 ## Workflow
 

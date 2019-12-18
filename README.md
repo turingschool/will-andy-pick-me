@@ -20,9 +20,9 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 - Clone your copy of the repo down to your machine
 - Read this README thoroughly, then begin working!
 
-## Submission
+## Deliverable
 
-**At or before noon**, push your code to a GitHub repository and deploy to GH pages. Complete the provided submission form in your channel to share your work with us.
+Provide the link to your repo and GitHub Pages in your gist.
 
 ## Workflow
 

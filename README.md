@@ -16,17 +16,19 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 
 ## Setup
 
-- Fork this repo to your account
-- Clone your copy of the repo down to your machine
+- Clone this repo down to your machine
+- `cd` into the repository
+- Run `git remote remove origin`
+- On GitHub, create a new repository and connect to this local repository
 - Read this README thoroughly, then begin working!
 
 ## Deliverable
 
-Provide the link to your repo and GitHub Pages in your gist.
+Provide the link to **your** repo and GitHub Pages in your gist.
 
 ## Workflow
 
-Commit at the end of each iteration (if not more frequently) so we can see the timestamps of your work.
+Commit at the end of each iteration (if not more frequently) for good habits!
 
 **Iteration 0:** Build Out Comp
 
@@ -47,7 +49,7 @@ Commit at the end of each iteration (if not more frequently) so we can see the t
 
 **Iteration 3:** Level Up
 
-- *NOTE: You should absolutely not be working on this unless your UI is perfect and you are 100% sure that all of Iterations 1-2 are fully functional and bug free.*
+- *NOTE: You should absolutely not be working on this unless your UI is solid and you are 100% sure that all of Iterations 1-2 are fully functional and bug free.*
 - Once user clicks and sees an answer, they can click a "favorite" button. That question and its answer should then be on a list of favorited question/answer pairs
 - The user can favorite as many or as few question/answer pairs as they like
 - When the user refreshes the page, all favorites will be gone

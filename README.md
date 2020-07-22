@@ -24,7 +24,7 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 
 ## Deliverable
 
-Provide the link to **your** repo and GitHub Pages in your gist.
+Provide the link to **your** repo and GitHub Pages in the submission form (no need to use the PR template for this).
 
 ## Workflow
 

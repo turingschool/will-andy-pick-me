@@ -108,6 +108,7 @@ clear button disabled: #D0CDCD
    color: white;
    font-weight: bold;
    margin: 5px;
+   opacity: 0.4;
  }
  
  @media only screen and (min-width: 700px) {

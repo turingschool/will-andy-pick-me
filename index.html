@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Life+Savers:800" rel="stylesheet">
     <link rel="stylesheet" href="./styles.css">
     <title>Will Andy Pick Me?</title>
@@ -9,20 +10,23 @@
   <header>
     <h1 class="title">Will Andy pick me?</h1>
   </header>
-    <body>
-    <div>
-      <section class="left-side">
-        <input class="ask-question" placeholder="Ask your question here!"></input>
-        <button class="get-answer-button">Get your answer</button>
-        <img class="ball-img" src="assets/eight-ball.png" alt="ball # 8 from pool">
-        <p class="user-question hidden">question required</p>
-        <p class="answer hidden">answer</p>
-        <button class="clear-button ">Clear</button>
-      </section>
-      <section class="right-side">
-        <img class="display" src="assets/woody.png" alt="woody character from the pixar movie toy-story">
-      </section>
-    </div>
-    <script src="index.js"></script>
-  </body>
+    <main class="main-container">
+
+        <section class="left-side">
+          <input class="ask-question" placeholder="Ask your question here!"></input>
+          <button class="get-answer-button">Get your answer</button>
+          <img class="ball-img" src="assets/eight-ball.png" alt="ball # 8 from pool">
+          <p class="user-question hidden">question required</p>
+          <p class="answer hidden">answer</p>
+          <button class="clear-button ">Clear</button>
+        </section>
+
+        <section class="right-side">
+          <img class="woody-img woody-1" src="assets/woody.png" alt="woody character from the pixar movie toy-story">
+          <img class="woody-img woody-2" src="assets/woody.png" alt="woody character from the pixar movie toy-story">
+          <img class="woody-img woody-2" src="assets/woody.png" alt="woody character from the pixar movie toy-story">
+        </section>
+
+      <script src="index.js"></script>
+      </main>
 </html>

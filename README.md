@@ -16,10 +16,9 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 
 ## Setup
 
-- Clone this repo down to your machine
+- Fork this repo
+- Clone your repo down to your machine
 - `cd` into the repository
-- Run `git remote remove origin`
-- On GitHub, create a new repository and connect to this local repository
 - Read this README thoroughly, then begin working!
 
 ## Deliverable

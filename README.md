@@ -9,7 +9,7 @@ The Magic 8 Ball had a place in Toy Story movies 1-3. Most famously, Sheriff Woo
 
 ## Purpose
 
-This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum.
+This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum. This is not an assessment and will not be used to determine a student's promotion to the next module.
 
 Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but peers or mentors should not be consulted and any other code base should not be referenced.
 

@@ -11,8 +11,7 @@ The Magic 8 Ball had a place in Toy Story movies 1-3. Most famously, Sheriff Woo
 
 This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum.
 
-- Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but peers or mentors should not be consulted and any other code base should not be referenced.
-- Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
+Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but peers or mentors should not be consulted and any other code base should not be referenced.
 
 ## Setup
 
@@ -33,7 +32,7 @@ Commit at the end of each iteration (if not more frequently) for good habits!
 
 - Images of comp below
 - An assets directory is provided in the repo, and colors are provided in the CSS file
-- Do _not_ spend time making this page responsive
+- Do _not_ spend time making this page responsive to screen size
 
 **Iteration 1:** Add Random Message Functionality
 

@@ -36,7 +36,7 @@ Commit at the end of each iteration (if not more frequently) for good habits!
 
 **Iteration 1:** Add Random Message Functionality
 
-- When a user types in a question then clicks the "Get your answer" button, the use sees their question and a random answer from the list of possible answers (a list of the possible random answers is provided below)
+- When a user types in a question then clicks the "Get your answer" button, the user sees their question and a random answer from the list of possible answers (a list of the possible random answers is provided below)
 - The input field the user typed the question into should clear as soon as they click the "Get your answer" button
 - When the question and answer appear, the image of the 8 ball disappears
 

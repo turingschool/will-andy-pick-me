@@ -8,20 +8,33 @@ h1 {
 
 .question-box {
   float: left;
+  display: flex;
+  justify-content: center;
   background-color: #E6ECF4;
-  height: 40%;
-  width: 40%;
+  height: 520px;
+  width: 550px;
+}
+
+ul {
+  list-style-type: none;
 }
 
 form {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   font-family: 'Open Sans', sans-serif;
 }
 
+textarea {
+  width: 500px;
+  justify-content: center;
+  border: 0px;
+}
+
 .Woody {
+  float: right;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 

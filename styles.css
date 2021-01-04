@@ -42,6 +42,7 @@ body {
 .main-form {
   /* display: flex; */
   background-color: #E6ECF4;
+  /* background-color: pink; */
   height: 400px;
   width: 500px;
   border: none;
@@ -67,6 +68,10 @@ body {
   font-size: 20px;
 }
 
+.get-answer-button:hover {
+  background-color: #1C3455;
+}
+
 /* .eight-ball {
   height: 100px;
   width: 100px;
@@ -81,11 +86,29 @@ body {
   text-align: center;
 }
 
+.buttons-holder: {
+  display: flex;
+  flex-direction: row;
+  height: 400px;
+}
+
 .clear-button {
   height: 30px;
   width: 60px;
   padding: 0;
-  margin: 75px 10px 10px 425px;
+  /* margin: 75px 10px 10px 425px; */
+  border: none;
+  border-radius: 2px;
+  color: white;
+  background-color: #D0CDCD;
+}
+
+.favorite-button {
+  height: 30px;
+  width: 60px;
+  padding: 0;
+  /* margin-bottom: 25px; */
+  /* margin: 75px 10px 10px 25px; */
   border: none;
   border-radius: 2px;
   color: white;
@@ -100,9 +123,30 @@ body {
   margin-left: 100px;
 }
 
-.
+/* ~~~~~~~~~ Favorites ~~~~~~~~~~~~ */
+
+.favorites {
+  text-align: center;
+  height: 400px;
+  width: 1000px;
+  margin-left: 350px;
+  background-color: #E6ECF4;
+}
+
+.favorites-header {
+  font-family: 'Life Savers', serif;
+  font-size: 40px;
+  color: #2B4E80;
+  /* margin-top: 40px; */
+  padding-top: 20px;
+}
+
 /* ~~~~~~~~~~Functionality~~~~~~~~~ */
 
 .hidden {
   display: none;
+}
+
+.red {
+  background-color: #DE4841;
 }

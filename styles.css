@@ -5,6 +5,7 @@ h1 {
   font-size: 50px;
 }
 
+
 .main {
   display: flex;
   justify-content: center;
@@ -49,10 +50,10 @@ h1 {
   height: 70%;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
 .eight-ball {
-  display: block;
   height: 75px;
   width: 75px;
 }
@@ -71,10 +72,25 @@ h1 {
    margin-bottom: 10px;
 }
 
-.disabled {
+.disabled-clear {
   background-color: #D0CDCD;
 }
 
+.hidden {
+  display: none;
+}
+
+.reprint-question {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  order: 1;
+}
+
+.response {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bolder;
+  order: 2;
+}
 
 
 /* font-family: 'Open Sans', sans-serif; */

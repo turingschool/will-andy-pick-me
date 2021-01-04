@@ -6,6 +6,13 @@ h1 {
   padding: 1em;
 }
 
+form {
+  display: flex;
+  justify-content: flex-flex-start;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
 
 /* font-family: 'Open Sans', sans-serif; */
 /* font-family: 'Life Savers', serif; */

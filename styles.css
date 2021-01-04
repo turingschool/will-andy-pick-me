@@ -57,10 +57,6 @@ form {
   flex-direction: column;
 }
 
-.disabled {
-  background-color: #607AA0;
-}
-
 .input-question {
   margin-top: 10px;
   text-align: center;
@@ -68,6 +64,7 @@ form {
 
 .button-get-answer {
   margin-top: 5px;
+  background-color: #607AA0;
   color: #ffffff;
 }
 
@@ -92,7 +89,7 @@ form {
 }
 
 .question, .answer {
-  margin: 0px; 
+  margin: 0px;
   color: #000000;
   font-family: 'Open Sans', sans-serif;
 }
@@ -113,11 +110,15 @@ form {
 
 .button-clear {
   margin: 15px;
-  background-color: #D0CDCD;
+  background-color: #DE4841;
   border: none;
   color: #ffffff;
   font-size: 1em;
   padding: 5px 8px;
+}
+
+.disabled {
+  background-color: #D0CDCD;
 }
 
 .andy-img {

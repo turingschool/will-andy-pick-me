@@ -15,14 +15,14 @@ Students should use this as an opportunity to challenge themselves and work comp
 
 ## Setup
 
-- Fork this repo
-- Clone your repo down to your machine
-- `cd` into the repository
-- Read this README thoroughly, then begin working!
+- Fork this repo √
+- Clone your repo down to your machine √
+- `cd` into the repository √
+- Read this README thoroughly, then begin working! √
 
 ## Deliverable
 
-Fill out [this self reflection form](https://forms.gle/nr3twDkAxb53PTNu6) by noon! 
+Fill out [this self reflection form](https://forms.gle/nr3twDkAxb53PTNu6) by noon!
 
 ## Workflow
 
@@ -30,7 +30,7 @@ Commit at the end of each iteration (if not more frequently) for good habits!
 
 **Iteration 0:** Build Out Comp
 
-- Images of comp below
+- Images of comp below 
 - An assets directory is provided in the repo, and colors are provided in the CSS file
 - Do _not_ spend time making this page responsive to screen size
 
@@ -68,8 +68,8 @@ Commit at the end of each iteration (if not more frequently) for good habits!
 - Reply hazy, try again.
 - Ask again later.
 - Better not tell you now.
-- Cannot predict now. 
-- Concentrate and ask again. 
+- Cannot predict now.
+- Concentrate and ask again.
 - Don't count on it.
 - My reply is no.
 - My sources say no.
@@ -81,5 +81,3 @@ Commit at the end of each iteration (if not more frequently) for good habits!
 <img width="973" alt="Zero state" src="https://user-images.githubusercontent.com/25447342/62751672-c8f99e00-ba21-11e9-9029-7855eb7524fa.png">
 
 <img width="1109" alt="After a user has requested an answer" src="https://user-images.githubusercontent.com/25447342/62751671-c8f99e00-ba21-11e9-90e5-4dc648ae2d6a.png">
-
-

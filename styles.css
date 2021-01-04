@@ -48,6 +48,7 @@ textarea {
 
 .eight-ball {
   margin: 0 auto;
+  margin-top: 75px;
   display: flex;
   justify-content: center;
   height: 200px;
@@ -55,7 +56,9 @@ textarea {
 
 .clear-button{
   margin-left: 450px;
-  margin-top: 150px;
+  margin-top: 100px;
+  border: 0px;
+  background-color: #D0CDCD;
 }
 
 .Woody {

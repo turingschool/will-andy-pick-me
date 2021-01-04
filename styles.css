@@ -10,3 +10,75 @@ light blue background: #E6ECF4;
 clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
+
+#page-head {
+  font-family: 'Life Savers', serif;
+  font-size: 400%;
+  display: flex;
+  justify-content: center;
+  color: #2B4E80;
+}
+
+main {
+  font-family: 'Life Savers', serif;
+  position: absolute;
+  top: 150px;
+  right: 0;
+  background-color: rgba(225, 225, 225, .9);
+  height: 45vh;
+  margin: auto;
+  margin-right: 699px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#table-head-button {
+  font-family: 'Life Savers', serif;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 100%;
+  color: red;
+}
+
+#table-body-button {
+    font-family: 'Life Savers', serif;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 100%;
+    color: blue;
+}
+
+#clear-button {
+  font-family: 'Life Savers', serif;
+  color: #D0CDCD;
+  display: flex;
+  justify-content: center;
+  width: 40px;
+  margin: 150px;
+  margin-left: 330px;
+  padding-left: 20px;
+  padding-right: 20px;
+  white-space: pre-wrap;
+}
+
+#magic-eightball {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  margin-top: -60%;
+}
+
+#woody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 55%;
+  margin-top: -60%;
+  margin-left: 150%;
+}

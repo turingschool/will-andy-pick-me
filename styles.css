@@ -10,3 +10,125 @@ light blue background: #E6ECF4;
 clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, .clear {
+  color: #2B4E80;
+}
+
+
+h1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: 'Life Savers', serif;
+  font-size: 60px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+
+.main {
+  height: 20%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.section {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.question-box {
+  background-color: #E6ECF4;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.woody-box {
+  width: 30%;
+  margin-left: 5%;
+}
+
+.questions-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.answer {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.questions-text input {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 3%;
+  width: 94%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 15px;
+}
+
+
+.answer button {
+  background-color: #1C3455;
+  color: white;
+  width: 94%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.ball-img {
+  width: 30%;
+}
+
+.ball {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.woody {
+  height: 100%;
+  width: auto;
+}
+
+.clear {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+  margin: 3%;
+}
+
+.clear button {
+  padding: 1%;
+  width: 12%;
+  color: white;
+  background-color: #D0CDCD;
+  border: none;
+  border-radius: 2px;
+}
+
+.hidden {
+  display: none;
+}

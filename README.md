@@ -22,7 +22,7 @@ Students should use this as an opportunity to challenge themselves and work comp
 
 ## Deliverable
 
-Fill out the self reflection form and link your repo when finished. 
+Fill out [this self reflection form](https://forms.gle/nr3twDkAxb53PTNu6) by noon! 
 
 ## Workflow
 

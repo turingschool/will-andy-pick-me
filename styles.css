@@ -64,7 +64,6 @@ h1 {
 }
 
 .clear {
-   background-color: #DE4841;
    font-family: 'Open Sans', sans-serif;
    border: none;
    color: white;
@@ -76,6 +75,10 @@ h1 {
   background-color: #D0CDCD;
 }
 
+.enabled-clear {
+  background-color: #DE4841;
+}
+
 .hidden {
   display: none;
 }
@@ -84,12 +87,15 @@ h1 {
   font-family: 'Open Sans', sans-serif;
   font-style: italic;
   order: 1;
+  margin-bottom: 0;
 }
 
 .response {
   font-family: 'Open Sans', sans-serif;
   font-weight: bolder;
   order: 2;
+  margin-top: 0;
+  font-size: 20px;
 }
 
 

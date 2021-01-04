@@ -1,5 +1,5 @@
-/* font-family: 'Open Sans', sans-serif; */
-/* font-family: 'Life Savers', serif; */
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Life Savers', serif; */
 
 /*
 COLORS
@@ -10,3 +10,86 @@ light blue background: #E6ECF4;
 clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
+
+* {
+  font-family: 'Open Sans', sans-serif
+}
+
+h1 {
+  color:#2B4E80;
+  font-family: 'Life Savers', serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-top: 75px;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+article {
+  width: 500px;
+  height: 400px;
+  padding: 5px 20px 5px 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: #E6ECF3;
+  position: relative;
+}
+
+section > img {
+  height: 400px;
+}
+
+input {
+  height: 40px;
+  text-align: center;
+}
+
+article > button {
+  color: white;
+  background-color: #2B4E80;
+  height: 40px;
+}
+
+article > img {
+  align-self: center;
+  margin-top: 30px;
+}
+
+div {
+  display: flex;
+  justify-content: flex-end;
+  align-self: flex-end;
+  position: absolute;
+  bottom: 0;
+}
+
+div > button {
+  background-color: #D0CDCD;
+  color: white;
+  border: 0px;
+  height: 38px;
+  width: 60px;
+  margin-bottom: 5px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.clear-active {
+  background-color: #DE4841;
+}
+
+.answer-disabled {
+  background-color:#DE4841;
+}

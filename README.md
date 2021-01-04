@@ -22,7 +22,7 @@ Students should use this as an opportunity to challenge themselves and work comp
 
 ## Deliverable
 
-Provide the link to **your** repo and GitHub Pages in the submission form (no need to use the PR template for this).
+Fill out the self reflection form and link your repo when finished. 
 
 ## Workflow
 

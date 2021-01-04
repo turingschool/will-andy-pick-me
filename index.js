@@ -33,6 +33,7 @@ function randomAnswer() {
 function getAnswer(e) {
   e.preventDefault();
   displayAnswer();
+  inputQuestion.value = ""; 
   textQuestion.innerText = `"${inputQuestion.value}?"`
   textAnswer.innerText = `${randomAnswer()}`
   btnClear.classList.remove("disabled");

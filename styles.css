@@ -6,12 +6,24 @@ h1 {
   padding: 1em;
 }
 
+.question-box {
+  float: left;
+  background-color: #E6ECF4;
+  height: 40%;
+  width: 40%;
+}
+
 form {
   display: flex;
-  justify-content: flex-flex-start;
+  justify-content: flex-start;
   font-family: 'Open Sans', sans-serif;
-
 }
+
+.Woody {
+  display: flex;
+  justify-content: flex-start;
+}
+
 
 
 /* font-family: 'Open Sans', sans-serif; */

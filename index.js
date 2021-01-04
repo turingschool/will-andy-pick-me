@@ -84,7 +84,7 @@ function displayFavoriteAnswers() {
 }
 
 function correctDisplay() {
-  for (var i =0 )
+  // for (var i =0 )
 }
 
 

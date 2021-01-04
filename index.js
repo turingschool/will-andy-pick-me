@@ -9,10 +9,26 @@ var reprintQuestion = document.querySelector('.reprint-question');
 var response = document.querySelector('.response');
 
 getYourAnswer.addEventListener('click', printPrediction);
+clearButton.addEventListener('click', returnDefaultScreen);
 
 function printPrediction() {
-  eightBall.classList.add('hidden');
-  reprintQuestion.innerText = questionField.value;
+  if (questionField.value != '') {
+    eightBall.classList.add('hidden');
+    reprintQuestion.innerText = questionField.value;
+    questionField.value = '';
+    response.innerText = answers[Math.floor(Math.random() * 20)];
+    clearButton.disabled = false;
+    clearButton.classList.add('enabled-clear');
+    clearButton.classList.remove('disabled-clear');
+  }
+}
+
+function returnDefaultScreen() {
+  eightBall.classList.remove('hidden');
   questionField.value = '';
-  response.innerText = answers[Math.floor(Math.random() * 20)];
+  reprintQuestion.innerText = '';
+  response.innerText = '';
+  clearButton.disabled = true;
+  clearButton.classList.add('disabled-clear');
+  clearButton.classList.remove('enabled-clear');
 }

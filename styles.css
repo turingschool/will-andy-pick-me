@@ -11,6 +11,10 @@ clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
 
+.hidden {
+  display: none;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -82,8 +86,24 @@ form {
 .magic-8-ball {
   flex: 1;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.question, .answer {
+  margin: 0px; 
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.question {
+  font-style: italic;
+  font-size: 1.3em;
+}
+
+.answer {
+  font-size: 2em;
 }
 
 .container-button-clear {

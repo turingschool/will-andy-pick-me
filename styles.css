@@ -10,3 +10,143 @@ light blue background: #E6ECF4;
 clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  /* display: flex */
+}
+
+.main-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.title {
+  font-family: 'Life Savers', serif;
+  font-size: 60px;
+  color: #2B4E80;
+  text-align: center;
+}
+
+/* ~~~~~~~~~~~~submit section~~~~~~~~~~~ */
+
+.main-section {
+  display: flex;
+  flex-direction: row;
+  margin-left: 350px;
+}
+
+.main-form {
+  /* display: flex; */
+  background-color: #E6ECF4;
+  /* background-color: pink; */
+  height: 400px;
+  width: 500px;
+  border: none;
+}
+
+#question-input {
+  height: 40px;
+  width: 460px;
+  border: none;
+  margin: 15px 20px 5px 20px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.get-answer-button {
+  height: 40px;
+  width: 460px;
+  border: none;
+  margin: 5px 20px 5px 20px;
+  text-align: center;
+  background-color: #607AA0;
+  color: white;
+  font-size: 20px;
+}
+
+.get-answer-button:hover {
+  background-color: #1C3455;
+}
+
+/* .eight-ball {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+} */
+
+.magic-8-ball {
+  height: 120px;
+  width: 120px;
+  margin-left: 190px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.buttons-holder: {
+  display: flex;
+  flex-direction: row;
+  height: 400px;
+}
+
+.clear-button {
+  height: 30px;
+  width: 60px;
+  padding: 0;
+  /* margin: 75px 10px 10px 425px; */
+  border: none;
+  border-radius: 2px;
+  color: white;
+  background-color: #D0CDCD;
+}
+
+.favorite-button {
+  height: 30px;
+  width: 60px;
+  padding: 0;
+  /* margin-bottom: 25px; */
+  /* margin: 75px 10px 10px 25px; */
+  border: none;
+  border-radius: 2px;
+  color: white;
+  background-color: #D0CDCD;
+}
+
+/* ~~~~~~~~~~~~andy photo~~~~~~~~~ */
+
+.woody-image {
+  height: 400px;
+  width: 300px;
+  margin-left: 100px;
+}
+
+/* ~~~~~~~~~ Favorites ~~~~~~~~~~~~ */
+
+.favorites {
+  text-align: center;
+  height: 400px;
+  width: 1000px;
+  margin-left: 350px;
+  background-color: #E6ECF4;
+}
+
+.favorites-header {
+  font-family: 'Life Savers', serif;
+  font-size: 40px;
+  color: #2B4E80;
+  /* margin-top: 40px; */
+  padding-top: 20px;
+}
+
+/* ~~~~~~~~~~Functionality~~~~~~~~~ */
+
+.hidden {
+  display: none;
+}
+
+.red {
+  background-color: #DE4841;
+}
